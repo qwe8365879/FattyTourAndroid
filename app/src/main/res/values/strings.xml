@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">飞度友行</string>
+
+    <!--String for menu items-->
+    <string name="menu_item_refresh">刷新</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_username">用户名</string>
+    <string name="prompt_password">密码</string>
+    <string name="action_sign_in">登 录</string>
+    <string name="action_sign_in_short">登录</string>
+    <string name="error_invalid_username">用户名无效</string>
+    <string name="error_invalid_password">密码太短</string>
+    <string name="error_incorrect_username_password">用户名或密码无效</string>
+    <string name="error_field_required">此字段为必填内容</string>
+    <string name="title_activity_main">飞度友行</string>
+    <string name="action_settings">切换用户</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="userinfo">用户信息</string>
+
+    <!-- String of Airport tans orders -->
+    <string name="my_orders">我的订单</string>
+    <string name="pending_orders">新的订单</string>
+    <string name="booked_orders">已抢订单</string>
+    <string name="assign_order">抢单</string>
+    <string name="unassign_order">退单</string>
+    <string name="booked_order">已抢订单</string>
+    <string name="progress_order">正在操作订单</string>
+
+    <!-- Order details -->
+    <string name="detail_name">名字</string>
+    <string name="detail_phone">电话</string>
+    <string name="detail_email">Email</string>
+    <string name="detail_wechat">微信</string>
+    <string name="detail_qq">QQ</string>
+    <string name="detail_address">地址</string>
+    <string name="detail_transport">接送</string>
+    <string name="detail_airport">机场</string>
+    <string name="detail_depart_datetime">接送时间</string>
+    <string name="detail_flight_no">航班号</string>
+    <string name="detail_on_person">成人</string>
+    <string name="detail_on_children">小孩</string>
+    <string name="detail_large_baggage">大件行李</string>
+    <string name="detail_small_baggage">小件行李</string>
+    <string name="detail_distance">行程距离</string>
+    <string name="detail_customer_note">备注</string>
+
+</resources>

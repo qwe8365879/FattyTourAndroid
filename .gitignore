@@ -88,3 +88,4 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+app/src/main/java/com/fattytour/www/EncryptUtils.java
